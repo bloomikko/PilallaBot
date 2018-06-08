@@ -7,6 +7,7 @@ try:
 	ACCESS_KEY = 'YOUR_ACCESS_KEY'
 	ACCESS_SECRET = 'YOUR_ACCESS_SECRET'
 
+
 	#Setting up the authentication and API for Twitter
 	auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 	auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
@@ -14,7 +15,7 @@ try:
 
 	def main():
 		#If using cron job, the path must be placed manually
-		numberOfNouns = sum(1 for line in open('./documents/koodihommia/twitter-botit/pilallabot/finnishnouns.txt', 'r'))
+		numberOfNouns = sum(1 for line in open('finnishnouns.txt', 'r'))
 			
 		#Create a pickle file for maintaining already used nouns
 		pickle_file = open('nounfile.pickle', 'ab')
@@ -29,7 +30,7 @@ try:
 			nounIndex = random.randint(0, numberOfNouns-1)
 		
 		#If using cron job, the path must be placed manually
-		noun = open('./documents/koodihommia/twitter-botit/pilallabot/finnishnouns.txt', 'r').readlines()[nounIndex].rstrip('\n')
+		noun = open('finnishnouns.txt', 'r').readlines()[nounIndex].rstrip('\n')
 
 		#Check if the noun has already been tweeted
 		if len(lastWeekNouns) < numberOfNouns:
