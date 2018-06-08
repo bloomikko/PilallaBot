@@ -7,7 +7,6 @@ try:
 	ACCESS_KEY = 'YOUR_ACCESS_KEY'
 	ACCESS_SECRET = 'YOUR_ACCESS_SECRET'
 
-
 	#Setting up the authentication and API for Twitter
 	auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 	auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
