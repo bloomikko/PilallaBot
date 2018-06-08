@@ -1,5 +1,4 @@
 import tweepy, sys, random, time, pickle
-from time import sleep
 
 try:
 	#Twitter credentials
@@ -15,7 +14,7 @@ try:
 
 	def main():
 		#If using cron job, the path must be placed manually
-		numberOfNouns = sum(1 for line in open('finnishnouns.txt', 'r'))
+		numberOfNouns = sum(1 for line in open('./documents/koodihommia/twitter-botit/pilallabot/finnishnouns.txt', 'r'))
 			
 		#Create a pickle file for maintaining already used nouns
 		pickle_file = open('nounfile.pickle', 'ab')
@@ -30,7 +29,7 @@ try:
 			nounIndex = random.randint(0, numberOfNouns-1)
 		
 		#If using cron job, the path must be placed manually
-		noun = open('finnishnouns.txt', 'r').readlines()[nounIndex].rstrip('\n')
+		noun = open('./documents/koodihommia/twitter-botit/pilallabot/finnishnouns.txt', 'r').readlines()[nounIndex].rstrip('\n')
 
 		#Check if the noun has already been tweeted
 		if len(lastWeekNouns) < numberOfNouns:
