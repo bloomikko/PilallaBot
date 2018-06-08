@@ -14,6 +14,7 @@ try:
 	api = tweepy.API(auth)
 
 	def main():
+		#If using cron job, the path must be placed manually
 		numberOfNouns = sum(1 for line in open('finnishnouns.txt', 'r'))
 			
 		#Create a pickle file for maintaining already used nouns
@@ -28,7 +29,8 @@ try:
 		while nounIndex in lastWeekNouns:
 			nounIndex = random.randint(0, numberOfNouns-1)
 		
-		noun = open("finnishnouns.txt", "r").readlines()[nounIndex].rstrip('\n')
+		#If using cron job, the path must be placed manually
+		noun = open('finnishnouns.txt', 'r').readlines()[nounIndex].rstrip('\n')
 
 		#Check if the noun has already been tweeted
 		if len(lastWeekNouns) < numberOfNouns:
