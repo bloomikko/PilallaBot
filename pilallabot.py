@@ -19,23 +19,23 @@ try:
 		#Create a pickle file for maintaining already used nouns
 		pickle_file = open('nounfile.pickle', 'ab')
 		try:
-			lastWeekNouns = pickle.load(open('nounfile.pickle', 'rb'))
+			usedNouns = pickle.load(open('nounfile.pickle', 'rb'))
 		except EOFError:
-			lastWeekNouns = []
+			usedNouns = []
 
 		#Get a random noun
 		nounIndex = random.randint(0, numberOfNouns-1)
-		while nounIndex in lastWeekNouns:
+		while nounIndex in usedNouns:
 			nounIndex = random.randint(0, numberOfNouns-1)
 		
 		#If using cron job, the path must be placed manually
-		noun = open('finnishnouns.txt', 'r').readlines()[nounIndex].rstrip('\n')
+		noun = open('finnishnouns.txt', 'r').readlines()[nounIndex].strip()
 
 		#Check if the noun has already been tweeted
-		if len(lastWeekNouns) < numberOfNouns:
-			lastWeekNouns.append(nounIndex)
+		if len(usedNouns) < numberOfNouns:
+			usedNouns.append(nounIndex)
 			with open ('nounfile.pickle', 'wb') as pickle_file:
-				pickle.dump(lastWeekNouns, pickle_file)
+				pickle.dump(usedNouns, pickle_file)
 
 		#Form the tweet
 		tweet = noun + " on pilalla"
