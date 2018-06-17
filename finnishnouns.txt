@@ -1,4 +1,4 @@
-aakkosjärjestys
+﻿aakkosjärjestys
 aakkosnumeerinen
 aallonharja
 aallonmurtaja
@@ -121,7 +121,6 @@ acajoupähkinä
 adenokarsinooma
 adenovirus
 adjuvanttihoito
-adoptiolapsi
 adsukipapu
 adventtikalenteri
 adventtikirkko
@@ -131,10 +130,6 @@ aerodynaamisesti
 affektihäiriö
 afgaaninvinttikoira
 aforismikokoelma
-afroaasialainen
-afroamerikkalainen
-afrokampaus
-afrokommunismi
 agenttifilmi
 agenttiromaani
 agentuuriliike
@@ -156,7 +151,6 @@ ahdinkotila
 ahdistuneisuushäiriö
 ahdistusneuroosi
 ahdistustila
-ahmimishäiriö
 ahomansikka
 ahoniitty
 ahtausliike
@@ -172,7 +166,6 @@ aidanrako
 aidanseiväs
 aidanvieri
 aidaskääpä
-AIDS-potilas
 aiepöytäkirja
 aiesopimus
 aiheenmukainen
@@ -284,7 +277,6 @@ aistimaailma
 aistinelin
 aistinsolu
 aistivaikutelma
-aistivammainen
 aitajuoksija
 aitajuoksu
 aitapensas
@@ -327,10 +319,6 @@ aivotrusti
 aivotulehdus
 aivotyö
 aivotärähdys
-aivovamma
-aivovammainen
-aivovaurio
-aivovauriolapsi
 aivoverenkierto
 aivoverenvuoto
 aivoveritulppa
@@ -747,7 +735,6 @@ alkuperusta
 alkuperuste
 alkuperä
 alkuperäinen
-alkuperäiskansa
 alkuperäiskappale
 alkuperäispakkaus
 alkuperäisteos
@@ -1679,7 +1666,6 @@ aukiokammo
 aukiolo
 aukkohakkuu
 auktoriteettiusko
-au-lapsi
 aumakatto
 au pair -tyttö
 aurakulma
@@ -1896,8 +1882,6 @@ avioehtosopimus
 avioelämä
 avioero
 avioerokanne
-avioerolapsi
-avioeroperhe
 avioerotuomio
 avioeste
 avioitumisikä
@@ -2137,8 +2121,6 @@ bioteknisesti
 biotiede
 birgittalaisluostari
 birgittalaisnunna
-biseksuaalinen
-biseksuaalisesti
 bisnesenkeli
 bittinikkari
 bitumihuopa
@@ -2590,7 +2572,6 @@ elintasokilpa
 elintasokilpailu
 elintasokoti
 elintasokuilu
-elintasopakolainen
 elintasosairaus
 elintasosiipi
 elintasoyhteiskunta
@@ -3554,9 +3535,6 @@ esivalta
 esivanhemmat
 esiäiti
 esiäänitys
-eskimokajakki
-eskimokoira
-eskimopyörähdys
 espanjan kieli
 espanjankielinen
 espanjanpippuri
@@ -3579,9 +3557,6 @@ eteisaula
 eteislepatus
 eteisvahtimestari
 eteisvärinä
-eteläafrikkalainen
-eteläamerikkalainen
-eteläeurooppalainen
 eteläkaakko
 eteläkaakkoinen
 eteläkärki
@@ -4450,7 +4425,6 @@ harhakäsitys
 harhalaukaus
 harhaluoti
 harhaluulo
-harhamielisyys
 harhanäky
 harhaoppi
 harhaoppinen
@@ -4725,7 +4699,6 @@ heikkolaatuisuus
 heikkolahjainen
 heikkolahjaisuus
 heikkoluonteinen
-heikkomielinen
 heikkomielisyys
 heikkonäköinen
 heikkonäköisyys
@@ -5731,11 +5704,6 @@ hometahra
 hometalo
 homevaurio
 hommamies
-homoeroottinen
-homofobia
-homoliitto
-homoseksuaalinen
-homoseksuaalisuus
 honkalauta
 honkapuu
 hopeaesine
@@ -5791,7 +5759,6 @@ horkkahyttynen
 horkkasääski
 hormiaukko
 hormonieritys
-hormonihoito
 hormonihäiriö
 hormonikierukka
 hormonikorvaushoito
@@ -5917,8 +5884,6 @@ hukkaääni
 hukkumiskuolema
 hukkumisonnettomuus
 hula-hula
-hulatanssija
-hulatyttö
 hulevesi
 hulivilipoika
 hulivilityttö
@@ -6108,9 +6073,7 @@ huumekauppias
 huumeklinikka
 huumekoira
 huumekuriiri
-huumenuori
 huumepoliisi
-huumepotilas
 huumeriippuvuus
 huumerikollisuus
 huumerikos
@@ -7058,7 +7021,6 @@ ilotulitus
 ilotulitusaine
 ilotulitusraketti
 ilotulitusväline
-ilotyttö
 ilouutinen
 ilta-askare
 ilta-ateria
@@ -7202,7 +7164,6 @@ infraääni
 inhorealismi
 initiaatiomenot
 injektioruisku
-inkakulttuuri
 inkiväärijuoma
 inkiväärikasvi
 inkivääriolut
@@ -7226,16 +7187,6 @@ interrailkortti
 interrogatiivipronomini
 intervalliharjoittelu
 intervalliharjoitus
-intiaaniheimo
-intiaanikanootti
-intiaanikesä
-intiaanikieli
-intiaanileikki
-intiaanipäähine
-intiaanipäällikkö
-intiaanireservaatti
-intiaanitanssi
-intiaaniteltta
 intiankobra
 intohimo
 intomieli
@@ -7345,8 +7296,6 @@ iskuvalmis
 iskuvalmius
 iskuvoima
 iskuvoimainen
-islaminusko
-islaminuskoinen
 islanninjäkälä
 islannin kieli
 islanninkielinen
@@ -7569,11 +7518,8 @@ itujyvänen
 iturata
 itusalaatti
 itusilmu
-itäaasialainen
-itäafrikkalainen
 itäauto
 itäblokki
-itäeurooppalainen
 itägootti
 itäkaakko
 itäkaakkoinen
@@ -7643,9 +7589,6 @@ jakokeskus
 jakokirja
 jakolasku
 jakomerkki
-jakomielinen
-jakomielisyys
-jakomielitauti
 jako-osa
 jako-osuus
 jakopuitteet
@@ -7993,7 +7936,6 @@ joukkomajoitus
 joukkomielenosoitus
 joukkomurha
 joukkomurhaaja
-joukkomuutto
 joukko-opetus
 joukko-oppi
 joukko-osasto
@@ -8443,16 +8385,7 @@ juustoveitsi
 juustoviipale
 juustovoileipä
 juutalaiskirsikka
-juutalaiskortteli
-juutalaiskristitty
-juutalaislähetys
-juutalaissaksa
-juutalaissyntyinen
-juutalaisvaino
 juutalaisvastainen
-juutalaisvastaisuus
-juutalaisviha
-juutalaisväestö
 juuttimatto
 juuttisäkki
 jykeväleukainen
@@ -9378,7 +9311,6 @@ kaksisataavuotinen
 kaksiselitteinen
 kaksisiipinen
 kaksisirkkainen
-kaksisukupuolinen
 kaksisuuntainen
 kaksitahoinen
 kaksitahtimoottori
@@ -9572,7 +9504,6 @@ kalaveitsi
 kalavelka
 kalaverkko
 kalavesi
-kaleeriorja
 kaleerivanki
 kalenterikuukausi
 kalenterivuorokausi
@@ -10809,7 +10740,6 @@ katukoroke
 katukuva
 katukäytävä
 katulamppu
-katulapsi
 katuliikenne
 katulyhty
 katulähetys
@@ -10838,7 +10768,6 @@ katutaistelu
 katutappelu
 katutaso
 katuteatteri
-katutyttö
 katutyö
 katuvalaistus
 katuvalo
@@ -11178,7 +11107,6 @@ kehitysaluepolitiikka
 kehitysapu
 kehitysaste
 kehityshistoria
-kehityshäiriö
 kehitysikä
 kehitysjoukko
 kehityskaari
@@ -11198,8 +11126,6 @@ kehityssuunta
 kehitystaso
 kehitystyö
 kehitysvaihe
-kehitysvammainen
-kehitysvammaisuus
 kehitysvirhe
 kehitysyhteistyö
 kehitysyhteistyöministeri
@@ -11560,10 +11486,6 @@ kerhotoiminta
 kerinpuut
 kerjuukirje
 kerjuusauva
-kerjäläiselämä
-kerjäläislapsi
-kerjäläismunkisto
-kerjäläismunkki
 kerkeäkielinen
 kerma-astia
 kermajauhe
@@ -11749,7 +11671,6 @@ keskitienoo
 keskittymiskyky
 keskittymisvaikeus
 keskituloinen
-keskitysleiri
 keskivahva
 keskivaihe
 keskivarvas
@@ -12383,7 +12304,6 @@ kiinteistötuomari
 kiinteytysvoimistelu
 kiinteäkorkoinen
 kiintiöjärjestelmä
-kiintiöpakolainen
 kiintiöperiaate
 kiintiösopimus
 kiinto
@@ -13226,7 +13146,6 @@ koepaperi
 koeporaus
 koeputki
 koeputkihedelmöitys
-koeputkilapsi
 koeryhmä
 koesarja
 koetehtävä
@@ -15237,13 +15156,11 @@ kuolemankauppias
 kuolemankello
 kuolemankolari
 kuolemankurva
-kuolemanleiri
 kuolemanloukku
 kuolemanmerkki
 kuolemanpartio
 kuolemanpelko
 kuolemanrangaistus
-kuolemansairas
 kuolemansynti
 kuolemansyy
 kuolemansäde
@@ -15371,7 +15288,6 @@ kuponkivihko
 kuppapahkura
 kupparinsarvi
 kuppatauti
-kuppatautinen
 kuppaussarvi
 kuppikunta
 kuprokuitu
@@ -15610,8 +15526,6 @@ kuuloseula
 kuulosuojain
 kuulotorvi
 kuulovamma
-kuulovammainen
-kuulovammaisuus
 kuulovartija
 kuulovartio
 kuulovirhe
@@ -16365,8 +16279,6 @@ käsityötaito
 käsivaaka
 käsivaivainen
 käsivalaisin
-käsivamma
-käsivammainen
 käsivara
 käsivarainen
 käsivarapiirustus
@@ -16911,7 +16823,6 @@ laitoskeittiö
 laitoskeittäjä
 laitosmies
 laitosneuvosto
-laitospotilas
 laitossiivooja
 laitostalous
 laitosteatteri
@@ -17216,7 +17127,6 @@ lapsenkieli
 lapsenlapsi
 lapsenlikka
 lapsenmieli
-lapsenmielinen
 lapsenmielisyys
 lapsenomainen
 lapsenomaisuus
@@ -17235,13 +17145,11 @@ lapsenusko
 lapsenvahti
 lapsenääni
 lapsialennus
-lapsiavioliitto
 lapsihalvaus
 lapsikaste
 lapsikatras
 lapsikauppa
 lapsikulta
-lapsikuolleisuus
 lapsikuoro
 lapsikuvaus
 lapsilauma
@@ -17255,12 +17163,8 @@ lapsinäyttelijä
 lapsiperhe
 lapsipoliittinen
 lapsipolitiikka
-lapsiporno
-lapsipornografia
 lapsiportti
 lapsipotilas
-lapsiprostituoitu
-lapsiprostituutio
 lapsipsykologi
 lapsipsykologia
 lapsipuoli
@@ -17270,11 +17174,7 @@ lapsiraukka
 lapsirikas
 lapsirikollinen
 lapsirukka
-lapsiseksimatkailu
 lapsiteatteri
-lapsityö
-lapsityöläinen
-lapsityövoima
 lapsivesi
 lapsivesitutkimus
 lapsivihamielinen
@@ -17504,7 +17404,6 @@ latausjännite
 latausvirta
 latenssivaihe
 lateraalimerkki
-latinalaisamerikkalainen
 latinalaistanssi
 latinan kieli
 latinankielinen
@@ -17703,7 +17602,6 @@ lavakoomikko
 lavantauti
 lavantautibakteeri
 lavantautiepidemia
-lavantautipotilas
 lavantautirokotus
 lavantautitartunta
 lavashow
@@ -18373,7 +18271,6 @@ lihassupistus
 lihassurkastuma
 lihassyy
 lihassärky
-lihasvamma
 lihasvoima
 lihasäilyke
 lihatikku
@@ -18398,13 +18295,10 @@ liikakasvu
 liikakuormitus
 liikakysyntä
 liikakäyttö
-liikalihava
-liikalihavuus
 liikamäärä
 liikanimi
 liikapaine
 liikapaino
-liikapainoinen
 liikapyynti
 liikarasitus
 liikasanaisuus
@@ -18577,8 +18471,6 @@ liikuntasota
 liikuntaterapia
 liikuntatiede
 liikuntatunti
-liikuntavamma
-liikuntavammainen
 liilanvärinen
 liimakorva
 liimakynä
@@ -19226,8 +19118,6 @@ lujavauhtinen
 lujitemuovi
 lujuuslaskelma
 lujuusoppi
-lukihäiriö
-lukihäiriöinen
 lukijakirje
 lukijakunta
 lukijamatka
@@ -19263,7 +19153,6 @@ lukudraama
 lukuhalu
 lukuharrastus
 lukuhetki
-lukuhäiriö
 lukujärjestelmä
 lukujärjestys
 lukukappale
@@ -19695,10 +19584,8 @@ luukato
 luukeitto
 luukudos
 luukyhmy
-luulosairas
 luulosairaus
 luulotauti
-luulotautinen
 luumarja
 luumuhillo
 luumukiisseli
@@ -20100,7 +19987,6 @@ lännenfilmi
 lännenkauppa
 lännensarja
 lännensuhteet
-länsiafrikkalainen
 länsiauto
 länsiblokki
 länsieurooppalainen
@@ -20176,7 +20062,6 @@ läppäventtiili
 läppävikainen
 läpäisyaihe
 läpäisykyky
-läskimaha
 läskipohjakenkä
 läskisoosi
 läsnäolija
@@ -20278,7 +20163,6 @@ löylykauha
 löylymies
 löylyvesi
 löysäpäinen
-löytölapsi
 löytöpaikka
 löytöpalkkio
 löytöretkeilijä
@@ -20302,13 +20186,9 @@ maahanhyökkäys
 maahanlasku
 maahanlaskujoukot
 maahanlyönti
-maahanmuuttaja
-maahanmuutto
 maahansyöksy
-maahantulo
 maahantulokielto
 maahantulolupa
-maahantunkeutuja
 maahantuoja
 maahantuonti
 maahantuontikielto
@@ -20544,7 +20424,6 @@ maamyyrä
 maanalainen
 maanantaikappale
 maaneuvos
-maanis-depressiivinen
 maanisä
 maanjako
 maanjyrsin
@@ -20582,8 +20461,6 @@ maanopeus
 maanosa
 maanpaine
 maanpako
-maanpakolainen
-maanpakolaisuus
 maanparannus
 maanparannusaine
 maanpetoksellinen
@@ -21640,8 +21517,6 @@ maustesilli
 maustesuola
 maustevihannes
 mausteyrtti
-mayaintiaani
-mayakulttuuri
 mediasirkus
 mediatapahtuma
 mediatutkimus
@@ -22279,15 +22154,12 @@ mielenterveystyö
 mielentila
 mielentilatutkimus
 mielentyyneys
-mielenvikainen
-mielenvikaisuus
 mielenvire
 mielenvirkistys
 mielenylennys
 mieli
 mieliaihe
 mieliala
-mielialahäiriö
 mielihalu
 mieliharmi
 mieliharrastus
@@ -22318,19 +22190,14 @@ mielipidetutkimus
 mielipidevanki
 mielipiteenilmaus
 mielipiteenmuodostus
-mielipiteenvapaus
-mielipuoli
-mielipuolinen
 mieliruoka
 mielisairaala
 mielisairaalahoito
 mielisairaanhoitaja
 mielisairaanhoito
-mielisairas
 mielisairaus
 mielisuosio
 mielitauti
-mielitautinen
 mieliteko
 mielitietty
 mielityö
@@ -22688,7 +22555,6 @@ monikkomuoto
 monikkomuotoinen
 monikulmio
 monikulmiomittaus
-monikulttuurinen
 monikymmeninen
 monikymmenkertainen
 monikymmenlukuinen
@@ -22776,7 +22642,6 @@ monivaiheraketti
 monivaikutteinen
 monivalintakoe
 monivalintatehtävä
-monivammainen
 monivivahteinen
 monivuotinen
 monivärinen
@@ -22903,7 +22768,6 @@ muistelmateos
 muistiaukko
 muistiharha
 muistihäiriö
-muistihäiriöinen
 muistiinkirjoittaa
 muistiinmerkitä
 muistiinpano
@@ -23288,17 +23152,6 @@ muskottikukka
 muskottipuu
 muskottipähkinä
 mustaherukkamehu
-mustaihoinen
-mustalaiselämä
-mustalaiskieli
-mustalaiskulttuuri
-mustalaisleiri
-mustalaismies
-mustalaismusiikki
-mustalaisnainen
-mustalaisorkesteri
-mustalaispriimas
-mustalaispuku
 mustaleimainen
 mustankipeys
 mustankipeä
@@ -23307,7 +23160,6 @@ mustanpuhuva
 mustapaitainen
 mustapartainen
 mustapukuinen
-mustapäinen
 mustapää
 mustasilmäinen
 mustasukkaisuusharha
@@ -23339,7 +23191,6 @@ mustikkasose
 mustikkatyyppi
 mutakerros
 mutakerrostuma
-mutakuono
 mutakylpy
 mutapaini
 mutkamäenlasku
@@ -23799,49 +23650,25 @@ naimatarjous
 naimisiinmeno
 naimiskauppa
 naisasia
-naisasialiike
 naiseläjä
 naisennimi
 naisenpuoli
 naisenryöstö
 naishahmo
-naishallitsija
 naishenkilö
-naishistoria
-naishormoni
 naisihanne
-naisihminen
-naisjohtaja
 naisjoukkue
 naisjuttu
-naisjärjestö
-naiskauneus
-naiskiintiö
-naiskulttuuri
 naiskuoro
 naiskuorolaulu
 naiskuva
 naisleski
-naisliike
-naislääkäri
-naismaailma
-naisministeri
-naisnäkökulma
-naisopettaja
-naisopiskelija
-naisosasto
-naispaikka
-naispappeus
-naispappi
-naispiispa
-naispuolinen
 naisrauha
 naissankari
 naisseikkailu
 naisseura
 naissuhde
 naissuku
-naissukupuoli
 naistenhuone
 naistenlehti
 naistenmies
@@ -23854,26 +23681,14 @@ naistentautiopillinen
 naistentautioppi
 naistenviikko
 naisteologi
-naistoimikunta
-naistutkimus
 naistuttava
-naistyöntekijä
-naistyövoima
-naisupseeri
-naisurheilija
-naisurheilu
-naisvalta
-naisvaltainen
 naisvaltikka
 naisvieras
 naisviha
 naisvoimistelija
 naisvoimistelu
 naisvoittoinen
-naisväestö
-naisväki
 naisystävä
-naisääni
 nakkikastike
 nakkikioski
 nakkimakkara
@@ -24009,8 +23824,6 @@ nautintoaine
 navettarakennus
 navettaruokinta
 navigaatiosatelliitti
-neekeriorja
-neekeriorjuus
 negatiivifilmi
 negatiivikuva
 neidonkenkä
@@ -24922,16 +24735,12 @@ näköpuhelin
 näköradio
 näkötarkkuus
 näkötorni
-näkövamma
-näkövammainen
-näkövammaisuus
 näkövinkkeli
 näköyhteys
 nälkäkuolema
 nälkäkurki
 nälkälakko
 nälkämaa
-nälkäpakolainen
 nälkäpalkka
 nälkäpöhö
 nälkätaiteilija
@@ -25489,7 +25298,6 @@ omenakirva
 omenakääriäinen
 omenalajike
 omenaleivos
-omenalihavuus
 omenalohko
 omenamehu
 omenankara
@@ -25553,7 +25361,6 @@ ongelmajätelaitos
 ongelmakimppu
 ongelmakäyttäjä
 ongelmakäyttö
-ongelmalapsi
 ongelmalähtöinen
 ongelmanasettelu
 ongelmanuori
@@ -25816,7 +25623,6 @@ organisaatiokaavio
 organisaatioviestintä
 organisointikyky
 organisointikykyinen
-orjakauppa
 orjanruusu
 orjantappura
 orjantappurakruunu
@@ -25832,9 +25638,6 @@ orkesterisävellys
 orkesteritausta
 orkesteriteos
 orpokoti
-orpolapsi
-orpopoika
-orpotyttö
 ortokuva
 orvokinsininen
 osa-aikaeläke
@@ -26005,11 +25808,7 @@ ottelupallo
 ottelurangaistus
 ottelutulos
 ottolainaus
-ottolapsi
 ottomoottori
-ottopoika
-ottotyttö
-ottotytär
 ottovanhempi
 oudonmakuinen
 oudonnäköinen
@@ -26430,8 +26229,6 @@ pakkoluovutus
 pakkomielle
 pakkomyynti
 pakkoneuroosi
-pakkoneurootikko
-pakkoneuroottinen
 pakko-ohjaus
 pakko-otto
 pakkopaita
@@ -26456,9 +26253,6 @@ pakkotyövanki
 pakkovalta
 pakokaasu
 pakokauhu
-pakolaishallitus
-pakolaisleiri
-pakolaisvirta
 pakomatka
 pakonalainen
 pakonomainen
@@ -26710,8 +26504,6 @@ paluukiekko
 paluuliikenne
 paluulippu
 paluumatka
-paluumuuttaja
-paluumuutto
 paluupallo
 paluupäivä
 paluureitti
@@ -26757,7 +26549,6 @@ palvikylki
 palviliha
 palvontamenot
 palvontapaikka
-panafrikkalainen
 panamahattu
 panamasidos
 panamerikkalainen
@@ -27022,7 +26813,6 @@ paristokäyttöinen
 paristonauhuri
 paristoradio
 parisuhde
-parisuhdeväkivalta
 parisänky
 paritalo
 pariterapia
@@ -27278,7 +27068,6 @@ pelimanniyhtye
 pelimerkki
 pelimoraali
 pelinappula
-pelinarkomaani
 pelinavaus
 pelinhoitaja
 pelinjohtaja
@@ -27489,7 +27278,6 @@ perhevalmennus
 perhevalokuva
 perhevene
 perheviljelmä
-perheväkivalta
 perheyhtiö
 perheyhtymä
 perheyritys
@@ -28647,8 +28435,6 @@ pitkäaaltoalue
 pitkäaaltoinen
 pitkäaikainen
 pitkäaikaishoito
-pitkäaikaispotilas
-pitkäaikaissairas
 pitkäaikaistyöttömyys
 pitkäaikaistyötön
 pitkäaikaisuus
@@ -28824,7 +28610,6 @@ pohjaväri
 pohjeapu
 pohjelihas
 pohjepituinen
-pohjoisafrikkalainen
 pohjoisamerikkalainen
 pohjoisenpuoleinen
 pohjoiseurooppalainen
@@ -28881,7 +28666,6 @@ poikasakki
 poikaseura
 poikaskuolleisuus
 poikatukka
-poikatyttö
 poikavauva
 poikaviikari
 poikavuosi
@@ -29515,7 +29299,6 @@ psykoterapeutti
 psykoterapeuttinen
 psykoterapia
 psyykenlääke
-psyykepotilas
 puberteetti-ikäinen
 puberteettikoe
 pudotuskilpailu
@@ -29572,7 +29355,6 @@ puheenparsi
 puheensorina
 puheenvuoro
 puhehäiriö
-puhehäiriöinen
 puheillepääsy
 puheilmaisu
 puhekaveri
@@ -29638,7 +29420,6 @@ puhelintilaaja
 puhelintilaus
 puhelintoivekonsertti
 puhelintorvi
-puhelintyttö
 puhelinuutiset
 puhelinvaihde
 puhelinvaihteenhoitaja
@@ -29918,7 +29699,6 @@ punasotka
 punatakki
 punatakkinen
 punatauti
-punatautinen
 punatiili
 punatiilinen
 punatukka
@@ -29929,7 +29709,6 @@ punavalkea
 punavalkoinen
 punavarpunen
 puna-viherheikkous
-puna-vihersokea
 puna-vihersokeus
 punavihreä
 punaviinilasi
@@ -30010,7 +29789,6 @@ puolikuukausittain
 puolikypsä
 puolilainausmerkki
 puolileikillään
-puolilihava
 puoliloinen
 puolimaihin
 puolimaileri
@@ -30059,7 +29837,6 @@ puolisalaa
 puolisalainen
 puolisatavuotinen
 puolisisarukset
-puolisokea
 puolisormikas
 puolisotilaallinen
 puolisukeltaja
@@ -30537,7 +30314,6 @@ puuterva
 puutikku
 puutomaatti
 puutostauti
-puutteenalainen
 puutuoli
 puututka
 puutyö
@@ -30773,8 +30549,6 @@ pyöräteline
 pyörätie
 pyörätraktori
 pyörätuoli
-pyörätuoli-invalidi
-pyörätuolipotilas
 pyörävarkaus
 pyöröharja
 pyöröhiomakone
@@ -30819,7 +30593,6 @@ päivyrikello
 päivystyshuone
 päivystysleikkaus
 päivystyspoliklinikka
-päivystyspotilas
 päivystystapaus
 päivystystoimenpide
 päivystysvuoro
@@ -31112,7 +30885,6 @@ päärmepisto
 päärooli
 pääruoka
 pääruokalaji
-päärynälihavuus
 päärynäpallo
 päärynäpuu
 päärynäsiideri
@@ -31353,8 +31125,6 @@ pöytävesi
 pöytävieras
 raadonsyöjä
 raajaliike
-raajarikko
-raajavammainen
 raaka
 raaka-ainelähde
 raaka-ainepula
@@ -31678,7 +31448,6 @@ raivopää
 raivoraitis
 raivotarjonta
 raivotauti
-raivotautinen
 raivotila
 raja-aita
 raja-alue
@@ -31727,8 +31496,6 @@ rajatapaus
 rajatiede
 rajatieto
 rajatila
-rajatilahäiriö
-rajatilapersoonallisuus
 rajatulo
 rajatuotto
 rajauskynä
@@ -32167,7 +31934,6 @@ rattikelkka
 rattilukko
 rattivaihde
 rattopoika
-rattotyttö
 raudankova
 raudanluja
 raudanpuute
@@ -32357,7 +32123,6 @@ ravitsemisala
 ravitsemisliike
 ravitsemistyöntekijä
 ravitsemushoito
-ravitsemushäiriö
 ravitsemusliike
 ravitsemusneuvoja
 ravitsemusneuvonta
@@ -32567,7 +32332,6 @@ retuperälle
 retuperällä
 reumakerrasto
 reumakuume
-reumapotilas
 reumasairaus
 reumatauti
 reuna-alue
@@ -32698,7 +32462,6 @@ riisiryynivelli
 riisisato
 riisisuurimo
 riisitauti
-riisitautinen
 riisitärkkelys
 riisivanukas
 riisivelli
@@ -33145,7 +32908,6 @@ rokotusneula
 rokotuspiikki
 rokotustodistus
 rokulipäivä
-romaanihenkilö
 romaanikirjailija
 romaanikirjallisuus
 romaanikäännös
@@ -33157,13 +32919,6 @@ romaanituotanto
 romadurjuusto
 romainesalaatti
 romanian kieli
-romanikulttuuri
-romanimies
-romaninainen
-romanin kieli
-romaninkielinen
-romaniväestö
-romaniyhteisö
 romanssinpoikanen
 romantiikannälkäinen
 rommipullo
@@ -33652,7 +33407,6 @@ rusettisolmu
 rusinakakku
 rusinakeitto
 rusinapulla
-ruskeaihoinen
 ruskeakielinen
 ruskeankeltainen
 ruskeankirjava
@@ -33679,7 +33433,6 @@ rutiiniluonteisesti
 rutiinitehtävä
 rutiinityö
 rutikuiva
-rutiköyhä
 rutilaiska
 rutivanhoillinen
 ruttotauti
@@ -34169,7 +33922,6 @@ sairaalalääkäri
 sairaalamaksu
 sairaalapaikka
 sairaalapappi
-sairaalapotilas
 sairaalapöpö
 sairaalarakennus
 sairaalaruoka
@@ -35104,7 +34856,6 @@ sekopäinen
 sekopää
 sekovarsi
 sekovartinen
-seksiaddikti
 seksiaddiktio
 seksiasiat
 seksibisnes
@@ -35114,7 +34865,6 @@ seksifilmi
 seksihurjastelija
 seksihurjastelu
 seksikauppa
-seksikielteinen
 seksikokemus
 seksikumppani
 seksileffa
@@ -35131,22 +34881,16 @@ seksisymboli
 seksitauti
 seksiteollisuus
 seksiterapia
-seksiturismi
 seksituristi
 seksivalistus
 seksivideo
 seksiväline
 seksuaalielämä
 seksuaalikasvatus
-seksuaalikielteinen
 seksuaalikäyttäytyminen
-seksuaalimurha
 seksuaaliobjekti
-seksuaalipsykologia
-seksuaalirikos
 seksuaaliterapia
 seksuaalivalistus
-seksuaalivietti
 sekundaarikäämi
 sekundaarivaihe
 sekundalaatu
@@ -35201,7 +34945,6 @@ selkärankareuma
 selkäreppu
 selkäruoto
 selkäsaha
-selkäsairas
 selkäsairaus
 selkäsauna
 selkäsiima
@@ -35211,7 +34954,6 @@ selkäuinti
 selkävaiva
 selkävaivainen
 selkävamma
-selkävammainen
 selkävesi
 selkävikainen
 selkävoitto
@@ -35223,7 +34965,6 @@ selkäydinneste
 selkäydinpunktio
 selkäydinpuudutus
 selkäydinvamma
-selkäydinvammainen
 sellerikaali
 selleripihvi
 sellerisuola
@@ -35569,7 +35310,6 @@ sigmasuoli
 signaalitorvi
 sihteerilintu
 sihteerinvirka
-šiiamuslimi
 siianmäti
 siiliasema
 siilikaktus
@@ -36583,8 +36323,6 @@ sokerisuolata
 sokerisuolaus
 sokeritasapaino
 sokeritauti
-sokeritautinen
-sokeritautipotilas
 sokeritehdas
 sokeriteollisuus
 sokeritoppa
@@ -36902,7 +36640,6 @@ sotakorvaus
 sotalaitos
 sotalaiva
 sotalaivasto
-sotalapsi
 sotaleikki
 sotalelu
 sotaleski
@@ -36916,8 +36653,6 @@ sotamuisto
 sotanäyttämö
 sotaoikeus
 sotaonni
-sotaorpo
-sotapakolainen
 sotapalvelus
 sotapeli
 sotapoika
@@ -36925,7 +36660,6 @@ sotapoliisi
 sotapolitiikka
 sotapotentiaali
 sotapropaganda
-sotapsykoosi
 sotapäiväkirja
 sotapäällikkö
 sotarasitus
@@ -36944,8 +36678,6 @@ sotasatama
 sotaseikkailija
 sotaseikkailu
 sotasensuuri
-sotasiirtolainen
-sotasokea
 sotasuunnitelma
 sotasyyllinen
 sotasyyllisyys
@@ -36978,7 +36710,6 @@ sotavahvuus
 sotavalmistelut
 sotavalmius
 sotavamma
-sotavammainen
 sotavankeus
 sotavanki
 sotavankileiri
@@ -37428,19 +37159,15 @@ sukupolvenvaihdos
 sukupolvenvaihdoseläke
 sukupolvenvuorottelu
 sukupolvi
-sukupuolenvaihtoleikkaus
-sukupuoli
 sukupuoli
 sukupuoliakti
 sukupuoliasiat
-sukupuolielin
 sukupuolielämä
 sukupuoliero
 sukupuolifantasia
 sukupuolihormoni
 sukupuolihurjastelija
 sukupuolihurjastelu
-sukupuoli-identiteetti
 sukupuolijakauma
 sukupuolikasvatus
 sukupuolikiintiö
@@ -37557,8 +37284,6 @@ sumutorvi
 sumuvaippa
 sumuvalo
 sumuverho
-sunnamuslimi
-sunnimuslimi
 sunnuntaiaamu
 sunnuntaiaikataulu
 sunnuntaiautoilija
@@ -38149,7 +37874,6 @@ sydämenlyönti
 sydämenpysähdys
 sydämensiirto
 sydämensiirtoleikkaus
-sydämensiirtopotilas
 sydämensivistys
 sydämensyke
 sydämentahdistin
@@ -38191,13 +37915,11 @@ sydänlääke
 sydänmaa
 sydänmuuri
 sydänosa
-sydänpotilas
 sydänpuolisko
 sydänpussi
 sydänpuu
 sydänpysähdys
 sydänpäivä
-sydänsairas
 sydänsairaus
 sydänsiirto
 sydänsuru
@@ -38206,7 +37928,6 @@ sydänsähkökäyrä
 sydäntalvi
 sydäntauti
 sydäntautilääkäri
-sydäntautinen
 sydäntautioppi
 sydäntenmurskaaja
 sydäntoiminta
@@ -38254,7 +37975,6 @@ symmetria-akseli
 symmetriakeskipiste
 symmetriakeskus
 symmetriataso
-synkkämielinen
 synkkämielisyys
 synkronirata
 synkronisatelliitti
@@ -38315,12 +38035,10 @@ syntymäpäivälahja
 syntymäpäiväonnittelu
 syntymäpäiväsankari
 syntymäpäivätervehdys
-syntymäsokea
 syntymätodistus
 syntymätukka
 syntymävuosi
 syntypaikka
-syntyperä
 syntyperäinen
 syntysanat
 syntysija
@@ -38453,7 +38171,6 @@ syöksyputki
 syöksysynnytys
 syöksytorvi
 syöksyvene
-syömishäiriö
 syömäase
 syömäkelpoinen
 syömäkuvio
@@ -38468,9 +38185,7 @@ syöpägeeni
 syöpäkasvain
 syöpäkudos
 syöpäkuolleisuus
-syöpälapsi
 syöpälääke
-syöpäpotilas
 syöpäsairaus
 syöpäsolu
 syöpäsolukko
@@ -39334,7 +39049,6 @@ takuumies
 takuusitoumus
 takuutodistus
 takuutyö
-talidomidilapsi
 talikynttilä
 talirauhanen
 talitiainen
@@ -41597,9 +41311,6 @@ tositoimi
 toskakakku
 toskaleivos
 totalisaattoriravit
-toteemieläin
-toteemipaalu
-toteemipatsas
 toteennäyttö
 totolippu
 totoravit
@@ -41648,8 +41359,6 @@ transitokauppa
 transitoliikenne
 transitotavara
 transitotulli
-transseksuaalinen
-transseksuaalisuus
 trapetsitaiteilija
 trasselitukko
 treenaussali
@@ -41986,7 +41695,6 @@ tulvamaa
 tulvaniitty
 tulvavesi
 tumakotelo
-tummaihoinen
 tummakulmainen
 tummanharmaa
 tummanpuhuva
@@ -42015,7 +41723,6 @@ tunnekuohu
 tunnekylläinen
 tunnekylläisyys
 tunneköyhyys
-tunneköyhä
 tunnelataus
 tunneliteltta
 tunnelivarjo
@@ -42038,7 +41745,6 @@ tunnesuhde
 tunnetila
 tunnevaltainen
 tunnevamma
-tunnevammainen
 tunnevoimainen
 tunneäly
 tunnistetieto
@@ -42745,7 +42451,6 @@ tyttärenpoika
 tyttärentytär
 tyttöaikainen
 tyttöenergia
-tyttöhupakko
 tyttöihminen
 tyttöikä
 tyttöjoukko
@@ -43761,7 +43466,6 @@ umpipuu
 umpipäissään
 umpirauhanen
 umpisilmäinen
-umpisokea
 umpisolmu
 umpisuolentulehdus
 umpisuoli
@@ -44115,7 +43819,6 @@ uusklassisuus
 uuskolonialismi
 uuskritiikki
 uuskäyttö
-uusköyhälistö
 uuslukutaidottomuus
 uusmerkintä
 uusnatsi
@@ -44454,7 +44157,6 @@ vaikeapääsyinen
 vaikeatajuinen
 vaikeatajuisesti
 vaikeatajuisuus
-vaikeavammainen
 vaikeaymmärteinen
 vaikeaymmärteisyys
 vaikeusaste
@@ -44504,25 +44206,17 @@ vaivaisäijä
 vaivannäkö
 vaivanpalkka
 vajaahampainen
-vajaakuntoinen
 vajaakuntoisuus
-vajaakykyinen
 vajaakäyttöinen
 vajaalaatuinen
 vajaalaatuisuus
 vajaalukuinen
-vajaamielinen
-vajaamielisyys
-vajaamittainen
 vajaasärmäinen
 vajaatehoinen
-vajaatoimintainen
 vajaatuottoinen
 vajaatuottoisuus
 vajaatyökykyinen
 vajaavaltainen
-vajaaälyinen
-vajaaälyisyys
 vajarakennus
 vajovesi
 vakakuva
@@ -45131,13 +44825,7 @@ valvontataulu
 valvontatelevisio
 valvontaviranomainen
 vammaishuolto
-vammaisjärjestö
-vammaisopiskelija
 vammaispuhelin
-vammaistyö
-vammaisurheilija
-vammaisurheilu
-vammaisuusaste
 vammaisväline
 vanavesi
 vanerikoivu
@@ -45981,7 +45669,6 @@ venemalli
 venemoottori
 venenäyttely
 venepaikka
-venepakolainen
 venepoliisi
 venepääntie
 veneranta
@@ -46660,7 +46347,6 @@ vieraskuntalainen
 vieraskuntoon
 vieraskutsut
 vieraskäynti
-vierasmaalainen
 vierasmaja
 vierasottelu
 vieraspaikkainen
@@ -47654,7 +47340,6 @@ vuodentulo
 vuodenvaihde
 vuodeosasto
 vuodepaikka
-vuodepotilas
 vuodesohva
 vuodetarjotin
 vuodetoveri
@@ -47929,9 +47614,6 @@ väestövastuinen
 väestövastuu
 väestövastuujärjestelmä
 vähemmistöhallitus
-vähemmistökansallisuus
-vähemmistökieli
-vähemmistöryhmä
 vähemmistövaltuutettu
 vähennyskelpoinen
 vähennyskelpoisuus
@@ -47969,9 +47651,6 @@ vähäliikenteinen
 vähälukuinen
 vähäluminen
 vähämerkityksinen
-vähämielinen
-vähämielisyys
-vähäosainen
 vähäpuheinen
 vähärasvainen
 vähäravinteinen
@@ -47983,7 +47662,6 @@ vähätuloinen
 vähätuottoinen
 vähätöinen
 vähäuskoinen
-vähävarainen
 vähäverinen
 vähäverisyys
 vähävirikkeinen
@@ -48213,7 +47891,6 @@ värisekoite
 värisekoitus
 värisilmä
 väriskaala
-värisokea
 värisokeus
 värisuora
 värisymboliikka
@@ -48229,7 +47906,6 @@ värivalikoima
 värivalo
 värivalokuva
 värivalokuvaus
-värivammainen
 värivastaanotin
 värivirhe
 värivivahde
@@ -48623,10 +48299,6 @@ yksinedustaja
 yksinedustus
 yksineläjä
 yksineuvoinen
-yksinhuoltaja
-yksinhuoltajaisä
-yksinhuoltajaperhe
-yksinhuoltajaäiti
 yksiniitinen
 yksinkertainen
 yksinkertaistaa
@@ -49216,7 +48888,6 @@ ympäristönsuojelu
 ympäristönvaihdos
 ympäristöoikeus
 ympäristöoppi
-ympäristöpakolainen
 ympäristöperäinen
 ympäristöpolitiikka
 ympäristöpsykologia
