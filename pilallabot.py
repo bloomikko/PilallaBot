@@ -1,4 +1,4 @@
-import tweepy, sys, random, time, pickle
+import tweepy, sys, random, pickle
 
 try:
 	#Twitter credentials
