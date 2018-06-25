@@ -3,6 +3,7 @@ Twitter bot for selecting a random Finnish noun from a text file and adding " on
 Inspiration comes from this Finnish rapper's DJ Ibusal song, "Pilalla", where everything is basically ruined: https://genius.com/Dj-ibusal-pilalla-lyrics
 
 Bot running at https://twitter.com/kaikkipilalla on my Raspberry Pi
+The word list is from http://www.palomaki.info/apps/genetiivi/subs.txt (some words removed from the list, as it might produce problematic results)
 
 # Features
   - Uses a text file to find a random noun and tweeting it "*noun* on pilalla"
