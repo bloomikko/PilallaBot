@@ -46,4 +46,4 @@ try:
 		main()
 		
 except Exception as e:
-    print(e.message)
+    print(e)
