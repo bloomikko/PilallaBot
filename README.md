@@ -6,11 +6,11 @@ Bot running at [Twitter](https://twitter.com/kaikkipilalla) on my Raspberry Pi.
 
 The word list is from [Palomäki.info](http://www.palomaki.info/apps/genetiivi/subs.txt) (some words removed from the list, as it might produce problematic results)
 
-# Features
+## Features
   - Uses a text file to find a random noun and tweeting it "*noun* on pilalla"
   - Adds the noun to a pickle file, so it could not be used for second time
   
- # What did I do/learn?
+## What did I do/learn?
   - More to love Python!
   - Little about Twitter API
   - Pickle files revised
