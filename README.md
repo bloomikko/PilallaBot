@@ -4,7 +4,7 @@ Inspiration comes from this Finnish rapper's DJ Ibusal song, "Pilalla", where ev
 
 ~~Bot running at [Twitter](https://twitter.com/kaikkipilalla) on my Raspberry Pi.~~  
 
-**Update 2/8/2023:** The bot has gone through all the lyrics, so it is not working anymore.
+**Update 2/8/2023:** The bot has gone through all the nouns, so it is not working anymore.
 
 The word list is from [Palomäki.info](http://www.palomaki.info/apps/genetiivi/subs.txt) (some words removed from the list, as it might produce problematic results)
 
